@@ -1,4 +1,5 @@
 npm 
+[link](https://react-crypto-cafe-starter.netlify.app/)
 # Crypto Cafe Project Requirements
 
 
@@ -38,13 +39,4 @@ Crypto Cafe is a React Web App powered by [COINGECKO](https://www.coingecko.com/
   
   
 
-## Resources:
 
-1.  Get all coin API: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=50&page=1&sparkline=false
-    
-2.  Get details of a coin by ID api: https://api.coingecko.com/api/v3/coins/${id}
-    
-
-3. Demo Site: [https://crypto-cafe.netlify.app](https://crypto-cafe.netlify.app)# crypto-cafe-starter
-
-4. Requirement Doc: [https://docs.google.com/document/d/1lqqNGPWOwLkiHWxXZiUeQcckQ-H0U-Lv4p_dtvFkqz0/edit?usp=sharing](https://docs.google.com/document/d/1lqqNGPWOwLkiHWxXZiUeQcckQ-H0U-Lv4p_dtvFkqz0/edit?usp=sharing)
